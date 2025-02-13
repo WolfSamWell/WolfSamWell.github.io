@@ -7,7 +7,7 @@
  
  I’m a developer.
  
- working on iOS&Front-End&Flutter.
+ working on iOS&FrontEnd&Flutter&Android.
  
  
  
