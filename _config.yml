@@ -1,20 +1,20 @@
 # Configurations
-title:            SamWell's Gitbook
-longtitle:        Sam's Gitbook
-author:           Sam Pan
+title:             Sam's Gitbook
+longtitle:        SamWell'sGitbook 
+author:           SamPan
 email:            pwg808@gmail.com
 description: >
-  分享全栈开发与架构设计心得
+  分享工作生活.
 
 version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://wolfsamwell.github.io'
-baseurl:          ''
+baseurl:          '/jekyll-gitbook'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
-# remote_theme: sighingnow/jekyll-gitbook
+remote_theme: sighingnow/jekyll-gitbook
 
 toc:
   enabled: true
